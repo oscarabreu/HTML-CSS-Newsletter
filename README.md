@@ -1,1 +1,1 @@
-# HTML-CSS-Newslatter
+# HTML-CSS-Newsletter
